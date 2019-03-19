@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "230904131224",
+    "firebase_url": "https://hallymwiki.firebaseio.com",
+    "project_id": "hallymwiki",
+    "storage_bucket": "hallymwiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230904131224:android:7a92c7e3deb9221e",
+        "android_client_info": {
+          "package_name": "com.example.hallymfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230904131224-sgv3s253n4iea72cvq3fg752j9huotf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hallymfood",
+            "certificate_hash": "0466ff46061758020905b51e0db3bdbcf0182d17"
+          }
+        },
+        {
+          "client_id": "230904131224-tc7jab0nkrs9ihgk5qtdqjir2e454hao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVx7FBcwjkY0j-NGuzQWwlM0Wy5kYtTBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230904131224-tc7jab0nkrs9ihgk5qtdqjir2e454hao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
